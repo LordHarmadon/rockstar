@@ -5,7 +5,7 @@
 
 Небольшая инструкция по установке плагинов:
 # React + Vite
-<img width="360" height="838" alt="Снимок экрана 2025-11-13 в 01 38 14" src="https://github.com/user-attachments/assets/d6cf641f-aeea-4544-badd-e853775b4c58" />
+
 
 Этот шаблон обеспечивает минимальную настройку для работы React в Vite с HMR и некоторыми правилами ESLint.
 
