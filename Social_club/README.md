@@ -21,11 +21,14 @@ React + Vite
 Если вы разрабатываете производственное приложение, рекомендуем использовать TypeScript с включёнными правилами линтинга, учитывающими тип. Ознакомьтесь с [шаблоном TS](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts), чтобы узнать, как интегрировать TypeScript и [`typescript-eslint`](https://typescript-eslint.io) в ваш проект.
 
 # Если все вышеперечисленное было скачано, то запускается проект двумя командами:
-npm i
+- npm i
 
-npm run dev
+- npm run dev
 
 Структура проекта:
+
+
+
 <img width="360" height="838" alt="Снимок экрана 2025-11-13 в 01 38 14" src="https://github.com/user-attachments/assets/f723a57d-c908-4514-982b-3d42defa52f9" />
 
 Авторы: Брежнев Олег Игоревич Исп9/kh34
